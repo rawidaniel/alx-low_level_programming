@@ -11,3 +11,7 @@
    * A C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line. Using puts function and the program should end with the value 0.
 6. 5-printf.c
    * A C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line using printf function and the program should return 0 and compile without warning when using the -Wall gcc option.
+7. 6-size.c
+   * A C program that prints the size of various types on the computer it is compiled and run on. Warnings are allowed and the program will return 0.
+8. 100-intel
+   * Script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
