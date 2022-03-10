@@ -1,2 +1,2 @@
 #!/bim/bash
-gcc -S $CFILE
+gcc -S $CFILE 
