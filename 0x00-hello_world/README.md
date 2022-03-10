@@ -7,3 +7,7 @@
    * Script that generates the assembly code of a C code and save it in an output file. The output will be named the same as the C file, but with the extension .s instead of .c.
 4. 3-name
    * Script that compiles a C file and creates an executable named cisfun.
+5. 4-puts.c
+   * A C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line. Using puts function and the program should end with the value 0.
+6. 5-printf.c
+   * A C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line using printf function and the program should return 0 and compile without warning when using the -Wall gcc option.
