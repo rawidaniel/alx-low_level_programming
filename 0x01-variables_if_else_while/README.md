@@ -29,6 +29,8 @@
    * A program that prints the lowercase alphabet in reverse, followed by a new line. Using putchar function.
 9. 9-print_comb.c
    * A program that prints all possible combinations of single-digit numbers.Numbers must be separated by ,, followed by a space.using only putchar function and only use four times maximum in your code.
+10. 100-print_comb3.c
+    * A program that prints all possible different combinations of two digits.Numbers will be separated by ,, followed by a space. 01 and 10 are considered the same combination of the two digits 0 and 1. only it uses putchar function to print the output.
 ~
 ~
 ~
