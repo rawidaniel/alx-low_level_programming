@@ -33,10 +33,6 @@
     * A program that prints all possible different combinations of two digits.Numbers will be separated by ,, followed by a space. 01 and 10 are considered the same combination of the two digits 0 and 1. only it uses putchar function to print the output.
 11. 101-print_comb4.c 
     * A program that prints all possible different combinations of three digits.Numbers will be separated by ,, followed by a space.012, 120, 102, 021, 201, 210 are considered the same combination of the two digits 0,1 and 2. only it uses putchar function to print the output.
-~
-~
-~
-~
-~
--- INSERT --                                                                      12,6          Bot
+12. 102-print_comb5.c
+    * A program that prints all possible combinations of two two-digit numbers.
  
