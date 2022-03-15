@@ -6,3 +6,5 @@
    * A function that prints the alphabet, in lowercase, followed by a new line. Using _putchar function.
 3. 2-print_alphabet_x10.c
    * A function that prints 10 times the alphabet, in lowercase, followed by a new line. Using _putchar function.
+4. 3-islower.c
+   * A function that checks for lowercase character and returns 1 if c is lowercase or returns 0.
