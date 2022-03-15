@@ -4,3 +4,5 @@
    * A program that prints _putchar, followed by a new line. using _putchar function.
 2. 1-alphabet.c
    * A function that prints the alphabet, in lowercase, followed by a new line. Using _putchar function.
+3. 2-print_alphabet_x10.c
+   * A function that prints 10 times the alphabet, in lowercase, followed by a new line. Using _putchar function.
