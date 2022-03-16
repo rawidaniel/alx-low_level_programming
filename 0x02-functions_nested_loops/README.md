@@ -27,7 +27,7 @@
 13. 100-times_table.c
     * A function that prints the n times table, starting with 0. If n is greater than 15 or less than 0 the function should not print anything.
 14. 101-natural.c
-   * A program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
+    * A program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
 15. 102-fibonacci.c
     * program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new lin and the numbers must be separated by comma, followed by a space ,. You are allowed to use the standard library
 16. 103-fibonacci.c
