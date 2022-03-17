@@ -9,7 +9,8 @@ int main(void)
 	int i;
 	int size = 100;
 
-
+	if (size <= 100)
+	{
 	for (i = 1; i <= size; i++)
 	{
 	if (i % 5 == 0 && i % 3 == 0)
@@ -32,6 +33,11 @@ int main(void)
 		printf("%d", i);
 		putchar(32);
 	}
+	}
+	}
+	else
+	{
+		putchar(32);
 	}
 	printf("\n");
 	return (0);
