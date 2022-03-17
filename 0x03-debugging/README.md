@@ -6,3 +6,5 @@
    * Comment out (don’t delete it!) the part of the code that is causing the output to go into an infinite loop.
 3. 2-largest_number.c
    * A program prints the largest of three integers.
+4. 3-print_remaining_days.c
+   * Fix the print_remaining_days() function so that the output works correctly for all dates and all leap years.
