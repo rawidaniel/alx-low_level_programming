@@ -5,6 +5,7 @@
    * A function that checks for a digit character and returns 1 if c is a digit otherwise it returns 0.
 3. 2-mul.c
    * A function that multiplies two integers.
-3. 3-print_numbers.c
+4. 3-print_numbers.c
    * A function that prints the numbers, from 0 to 9, followed by a new line.
-
+5. 4-print_most_numbers.c
+   * A function that prints the numbers, from 0 to 9, followed by a new line.
