@@ -15,3 +15,5 @@
    * A function that draws a straight line in the terminal.Where n is the number of times the character _ should be printed. If n is 0 or less, the function should only print \n and the line should end with a \n.
 8. 7-print_diagonal.c
    * A function that draws a diagonal line on the terminal.
+9. 8-print_square.c
+   * A function that prints a square, followed by a new line, Where size is the size of the square.If size is 0 or less, the function should print only a new line and use the character # to print the square.
