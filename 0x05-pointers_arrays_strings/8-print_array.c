@@ -2,15 +2,15 @@
 #include <stdio.h>
 /**
  * print_array - print elements of an integer array
- * @a: a pointer
- * @n: integer number of elements to be printed
+ * @a: array
+ * @n: number of elements
  */
 void print_array(int *a, int n)
 {
 	int i;
 
 	i = 0;
-	while (i <= n - 1)
+	while (i < n)
 	{
 		if (i != (n - 1))
 		{
