@@ -2,7 +2,7 @@
 /**
  * string_toupper - convert all lowercase letter to uppercase
  * @s: array
- * Return: string 
+ * Return: string
  */
 char *string_toupper(char *s)
 {
@@ -17,7 +17,7 @@ char *string_toupper(char *s)
 	{
 		if (s[j] >= 'a' && s[j] <= 'z')
 		{
-			s[j] = s[j] -32;
+			s[j] = s[j] - 32;
 		}
 	}
 	return (s);
