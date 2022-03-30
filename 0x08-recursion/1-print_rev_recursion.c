@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _print_rev_recursion - print the string in reverse
- * @s: string to ptint 
+ * @s: string to be printed
  */
 void _print_rev_recursion(char *s)
 {
