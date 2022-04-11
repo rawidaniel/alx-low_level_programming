@@ -6,4 +6,6 @@
 3. 2-print_dog.c
    * Write a function that prints a struct dog. Prototype: void print_dog(struct dog *d);. If an element of d is NULL, print (nil) instead of this element. (if name is NULL, print Name: (nil) and If d is NULL print nothing.
 4. dog.h
-   * Define a new type dog_t as a new name for the type struct dog. 
+   * Define a new type dog_t as a new name for the type struct dog.
+5. 4-new_dog.c
+   * Write a function that creates a new dog where Prototype: dog_t *new_dog(char *name, float age, char *owner);, you have to store a copy of name and owner and return NULL if the function fails. 
