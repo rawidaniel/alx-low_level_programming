@@ -9,5 +9,15 @@ void print_numbers(const char *separator, const unsigned int n, ...);
 void print_strings(const char *separator, const unsigned int n, ...);
 void print_all(const char * const format, ...);
 
+/**
+ * lptr - struct
+ * @letter: specify the data type
+ * @ptr: a pointer to function
+ */
+typedef struct lptr
+{
+	char letter;
+	void (*ptr)(va_list);
+} Data;
 #endif
 
