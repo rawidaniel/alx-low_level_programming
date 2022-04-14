@@ -9,14 +9,14 @@ void print_numbers(const char *separator, const unsigned int n, ...)
 	va_list ag;
 	unsigned int i;
 
-	va_start(ag, n);
 	if (n > 0)
 	{
+		va_start(ag, n);
 		for (i = 0; i < n; i++)
 		{
 			if (separator != NULL)
 			{
-				if (i == 0)
+				if (i == 0 || i == n)
 				{
 					printf("%d", va_arg(ag, int));
 				}
