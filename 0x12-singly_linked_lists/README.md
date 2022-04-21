@@ -5,3 +5,5 @@
    * A function that returns the number of elements in a linked list_t list where the prototype is size_t list_len(const list_t *h).
 3. 2-add_node.c
    * A function that adds a new node at the beginning of a list_t list where the prototype is list_t *add_node(list_t **head, const char *str) and returns the address of the new element, or NULL if it failed. str needs to be duplicated and allowed to use strdup.
+4. 3-add_node_end.c
+   * A function that adds a new node at the end of a list_t list where the prototype is list_t *add_node_end(list_t **head, const char *str) and returns list_t *add_node_end(list_t **head, const char *str). str needs to be duplicated and allowed to use strdup.
