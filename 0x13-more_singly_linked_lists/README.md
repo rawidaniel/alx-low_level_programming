@@ -7,3 +7,5 @@
    * A function that adds a new node at the beginning of a listint_t list where the prototype is listint_t *add_nodeint(listint_t **head, const int n) and returns the address of the new element, or NULL if it failed.
 4. 3-add_nodeint_end.c
    * A function that adds a new node at the end of a listint_t list where the prototype is listint_t *add_nodeint_end(listint_t **head, const int n) and returns the address of the new element, or NULL if it failed.
+5. 4-free_listint.c
+   * A function that frees a listint_t list where the prototype is void free_listint(listint_t *head).
