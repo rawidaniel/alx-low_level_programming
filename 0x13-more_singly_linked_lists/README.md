@@ -27,4 +27,6 @@
    * A function that returns the sum of all the data (n) of a listint_t linked list where the prototype is int sum_listint(listint_t *head) and returns the sum or 0if the list is empty.
 10. 9-insert_nodeint.c
     * A function that inserts a new node at a given position where the prototype is listint_t *insert_nodeint_at_index(listint_t **head, unsigned int idx, int n), idx is the index of the list where the new node should be added. Index starts at 0 and returns the address of the new node, or NULL if it failed. if it is not possible to add the new node at index idx, do not add the new node and return NULL.
+11. 10-delete_nodeint.c
+    * A function that deletes the node at index index of a listint_t linked list where the prototype is int delete_nodeint_at_index(listint_t **head, unsigned int index), index is the index of the node that should be deleted. Index starts at 0 and returns 1 if it succeeded, -1 if it failed.
 
