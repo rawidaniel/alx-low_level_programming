@@ -18,5 +18,8 @@ listint_t *get_nodeint_at_index(listint_t *head, unsigned int index)
 		temp = temp->next;
 		i++;
 	}
-	return (temp);
+	if (temp)
+		return (temp);
+	else
+		return (NULL);
 }
