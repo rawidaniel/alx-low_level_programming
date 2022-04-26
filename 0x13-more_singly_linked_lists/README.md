@@ -10,4 +10,6 @@
 5. 4-free_listint.c
    * A function that frees a listint_t list where the prototype is void free_listint(listint_t *head).
 6. 5-free_listint2.c
-   * A function that frees a listint_t list where the prototype is void free_listint2(listint_t **head) and the function sets the head to NULL. 
+   * A function that frees a listint_t list where the prototype is void free_listint2(listint_t **head) and the function sets the head to NULL.
+7. 6-pop_listint.c 
+   * A function that deletes the head node of a listint_t linked list, and returns the head node’s data (n) where the prototype is int pop_listint(listint_t **head) an returns the head node’s data (n) or 0 if the linked list is empty.
