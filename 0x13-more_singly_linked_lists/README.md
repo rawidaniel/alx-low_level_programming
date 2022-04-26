@@ -15,3 +15,14 @@
    * A function that deletes the head node of a listint_t linked list, and returns the head node’s data (n) where the prototype is int pop_listint(listint_t **head) an returns the head node’s data (n) or 0 if the linked list is empty.
 8. 7-get_nodeint.c
    * A function that returns the nth node of a listint_t linked list where the prototype is listint_t *get_nodeint_at_index(listint_t *head, unsigned int index), index is the index of the node, starting at 0 and returns the nth node of the lined list or NULLif the node does not exist.
+9. 
+   * A function that frees a listint_t list where the prototype is void free_listint(listint_t *head).
+6. 5-free_listint2.c
+   * A function that frees a listint_t list where the prototype is void free_listint2(listint_t **head) and the function sets the head to NULL.
+7. 6-pop_listint.c
+   * A function that deletes the head node of a listint_t linked list, and returns the head node’s data (n) where the prototype is int pop_listint(listint_t **head) an returns the head node’s data (n) or 0 if the linked list is empty.
+8. 7-get_nodeint.c
+   * A function that returns the nth node of a listint_t linked list where the prototype is listint_t *get_nodeint_at_index(listint_t *head, unsigned int index), index is the index of the node, starting at 0 and returns the nth node of the lined list or NULLif the node does not exist.
+9. 8-sum_listint.c
+   * A function that returns the sum of all the data (n) of a listint_t linked list where the prototype is int sum_listint(listint_t *head) and returns the sum or 0if the list is empty.
+
